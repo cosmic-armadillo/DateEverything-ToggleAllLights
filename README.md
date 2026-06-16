@@ -35,7 +35,7 @@ You can configure the hotkeys via the [BepInEx Configuration Manager](https://gi
 - **Toggle All Lights On:** Sets the desired keyboard hotkey to toggle all lights on _(Default: `Equals`)_
 - **Debug Mode:** Enables/disables Debug Mode, which is logs extra info to the console. Helpful if something isn't working properly _(Default: `false`)_
 
-![Config Image](/images/ConfigImage.png "The in-game config panel when using the BepInEx Configuration Manager")<small>_\^ The in-game config panel when using the BepInEx Configuration Manager._</small>
+![Config Image](/images/ConfigImage.png "The in-game config panel when using the BepInEx Configuration Manager")<small>_<br>^ The in-game config panel when using the BepInEx Configuration Manager._</small>
 
 ## Problems/Troubleshooting
 
