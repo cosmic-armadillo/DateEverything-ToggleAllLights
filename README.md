@@ -4,7 +4,7 @@
 
 Turn all the lights in the house on or off at the same time by pressing configurable keyboard hotkeys!
 
-⭐ See [Releases](/releases) to download the mod, or alternatively, you can download it from [Nexus Mods](https://www.nexusmods.com/dateeverything/mods/23).
+⭐ See [Releases](https://github.com/cosmic-armadillo/DateEverything-ToggleAllLights/releases) to download the mod, or alternatively, you can download it from [Nexus Mods](https://www.nexusmods.com/dateeverything/mods/23).
 
 <small>_I got sick of having to turn lights on in each room once night came around, so decided to build this quick mod to solve that._</small>
 
